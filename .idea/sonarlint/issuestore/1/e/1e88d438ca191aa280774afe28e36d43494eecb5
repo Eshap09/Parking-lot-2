@@ -1,0 +1,5 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëöŒêùÿÿÿÿ8öÎä…3
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µïôƒÿÿÿÿÿ8µôÛä…3
+Q
+java:S1068"/Remove this unused "vehicleType" private field.(µïôƒÿÿÿÿÿ8¶¨¢ç…3

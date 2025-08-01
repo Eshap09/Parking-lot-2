@@ -1,0 +1,6 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÔñÕÄøÿÿÿÿ8‹Áûæ…3
+a
+java:S1128"?Remove this unused import 'org.example.parkinglot.ParkingSpot'.(³…şºıÿÿÿÿ8…Š¹ç…3
+P
+java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8…Š¹ç…3
